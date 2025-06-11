@@ -102,7 +102,7 @@
   margin: 0px auto;
   max-width: 1000px;
   height: 600px;
-  background: url('image/business_class.jpg');
+  background: url('/image/business_class.jpg');
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,7 +113,7 @@
   margin: 0px auto;
   max-width: 1000px;
   height: 600px;
-  background: url('image/economy_class.jpg');
+  background: url('/image/economy_class.jpg');
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
